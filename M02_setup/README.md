@@ -38,3 +38,4 @@ codex --version
 - [ ] Node.js 18 이상과 Git 버전을 확인했다.
 - [ ] Claude Code 또는 Codex를 실행했다.
 - [ ] Markdown 파일을 만들고 미리보기를 확인했다.
+g
